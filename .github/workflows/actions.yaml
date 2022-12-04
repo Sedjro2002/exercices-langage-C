@@ -1,5 +1,5 @@
 name: exoC-actions
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: ${{ github.actor }} exercice OS avancé
 on: [push]
 jobs:
   check-bats-version:
